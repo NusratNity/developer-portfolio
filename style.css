@@ -37,3 +37,19 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    background-image: url(images/0blid739.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 6%;
+}
+
+.again-link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 114, 232), rgb(236, 41, 149));
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 6px;
+}
